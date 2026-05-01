@@ -8,9 +8,9 @@
 class Vestige < Formula
   desc "Local-first, repo-pinned memory layer for coding agents"
   homepage "https://github.com/conorluddy/Vestige"
-  url "https://github.com/conorluddy/Vestige/archive/refs/tags/v0.2.0.tar.gz"
-  version "0.2.0"
-  sha256 "2b082ab0a9d7991c4eb11d6a84f1657558323cdc6dfd4b82d4c95ae5ec44c78c"
+  url "https://github.com/conorluddy/Vestige/archive/refs/tags/v0.2.1.tar.gz"
+  version "0.2.1"
+  sha256 "ebe98f5b15b9ef0928e7c346f3f7e2098e730464da7d7f9d769bda4e3bcb4999"
   license "MIT"
   head "https://github.com/conorluddy/Vestige.git", branch: "main"
 
